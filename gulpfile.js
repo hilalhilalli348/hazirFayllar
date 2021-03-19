@@ -1,6 +1,6 @@
 	
 // package.json baglantilari
-
+// yeni mesaj
  "dependencies": {
     "gulp-autoprefixer": "^7.0.1",
     "gulp-clean-css": "^4.3.0",
